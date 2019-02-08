@@ -1,1 +1,0 @@
-cmd_/home/de2i-150/Downloads/aaaaaa/source/driver/led_driver.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-104-generic/scripts/module-common.lds --build-id  -o /home/de2i-150/Downloads/aaaaaa/source/driver/led_driver.ko /home/de2i-150/Downloads/aaaaaa/source/driver/led_driver.o /home/de2i-150/Downloads/aaaaaa/source/driver/led_driver.mod.o
